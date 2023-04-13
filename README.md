@@ -2,6 +2,7 @@
 ---
 <p>
 <img src= https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
+<a href="https://www.twitch.tv/zaphiront"><	img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </p>
 
 <!--
