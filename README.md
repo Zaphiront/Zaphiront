@@ -1,5 +1,9 @@
 # Hello I'm Paul 🤖🤖
 ---
+<p>
+Fresh student of Le Wagon batch #1143 🎉🎉🎉🎉🎉
+  
+</p>
 ## My social links 🔗🔗🔗🔗
 <p>
 <a href="https://www.twitch.tv/zaphiront"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
