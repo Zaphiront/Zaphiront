@@ -1,5 +1,6 @@
-### Hello I'm Paul 🤖🤖
+# Hello I'm Paul 🤖🤖
 ---
+<img src= https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
 
 
 <!--
