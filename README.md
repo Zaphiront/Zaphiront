@@ -1,7 +1,8 @@
 # Hello I'm Paul 🤖🤖
 ---
+<p>
 <img src= https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF>
-
+</p>
 
 <!--
 **Zaphiront/Zaphiront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
