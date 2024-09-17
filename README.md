@@ -1,6 +1,6 @@
 # Hello I'm Paul 🤖🤖
 <p>
-Fresh student of Le Wagon batch #1143 🎉🎉🎉🎉🎉
+Student of Le Wagon batch #1143 🎉🎉🎉🎉🎉
 </p>
 
 ---
